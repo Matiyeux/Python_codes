@@ -1,0 +1,35 @@
+Définir la taille de l'affichage d'une console : (voir framebuffer_width et hieght)
+https://elinux.org/RPiconfig
+
+Utilisation du Sound Sensor avec Raspberry :
+http://www.instructables.com/id/Using-a-sound-sensor-with-a-Raspberry-Pi-to-contro/
+
+Calibration des écran tactile (inversement X / Y, ...) :
+https://doc.ubuntu-fr.org/evdev
+
+Tuto pour l'écran LCD multilignes :
+http://electroniqueamateur.blogspot.fr/2014/05/afficheur-lcd-16-x-2-et-raspberry-pi.html
+
+Doc du lidar :
+http://gilisymo.com/img/cms/LS53L0X_datasheet_Gilisymo_rev1_0.pdf
+
+Librairie python pour 5110 avec examples :
+https://github.com/adafruit/Adafruit_Nokia_LCD
+Explication des méthodes ImageDraw avec PIL : http://pillow.readthedocs.io/en/3.1.x/reference/ImageDraw.html
+
+Copier coller sous ubuntu :
+sudo cp /chemin/de/ton/fichier espace /chemin/de/destination
+
+Supprimer un dossier sous ubuntu : rm -r
+Plus d'explication sur les commandes ubuntu : https://doc.ubuntu-fr.org/tutoriel/console_ligne_de_commande
+
+%%%%%%%%%%%%%%%%%%%%
+SERVO MOTOR :
+
+Tuto Servo moteur avec Rpi.GPIO : http://espace-raspberry-francais.fr/Composants/Controler-Servo-Moteur-Raspberry-Francais/
+
+Tuto servo moteur avec wiringpi : https://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor/software
+https://github.com/WiringPi/WiringPi-Python
+
+Explication servo : https://fr.wikipedia.org/wiki/Servomoteur
+%%%%%%%%%%%%%%%%%%%%
