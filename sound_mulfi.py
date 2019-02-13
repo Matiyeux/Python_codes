@@ -9,7 +9,7 @@ tts=gTTS(text=phrase,lang='fr',slow=False)
 tts.save("test.mp3")
 
 pygame.mixer.init()
-pygame.mixer.music.load('C:\\Users\\matthieu.hauck\\Desktop\\Python\\test.mp3')
+pygame.mixer.music.load('C:\\???\\test.mp3')
 pygame.mixer.music.set_volume(1)
 pygame.mixer.music.play()
 time.sleep(7)
